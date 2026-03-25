@@ -11,4 +11,4 @@ jobs:
       contents: read
     steps:
       - uses: actions/checkout@v4
-      - uses: popey/skill-review@fix/update-footer
+      - uses: popey/skill-review@use-setup-tessl
