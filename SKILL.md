@@ -1,6 +1,7 @@
-# Review Code Tile
-
-Review code for maintainability improvements.
+---
+name: review-code
+description: Review code for maintainability improvements and best practices.
+---
 
 ## Usage
 
